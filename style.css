@@ -1,0 +1,151 @@
+/* STYLE SECTIONING TAGS */
+
+*{
+  margin-top: 4px
+}
+
+body {
+ background-color: #dedede;
+  text-align: center;
+}
+
+main{
+  text-align: left;
+  margin: 25px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #ffffff;
+  font-family: 'futura', sans-serif;
+  text-align: center;
+  font-size: 55px;
+  background-color: #0092d1;
+  padding: .76em;
+}
+
+.aboutus{
+   color: #ffffff;
+  font-family: 'futura', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  background-color: #005d85;
+  padding: .5em; 
+  margin-top: 60px;
+  margin-bottom:40px;
+}
+
+#blank{
+ color: #6e6e6e;
+font-family: 'futura', sans-serif;
+  text-align: center;
+  font-size: 15px;
+  background-color: #6e6e6e;
+  margin-top: 50px;
+  margin-bottom:50px;
+}
+
+#blanktwo{
+ color: #005d85;
+font-family: 'futura', sans-serif;
+  text-align: center;
+  font-size: 15px;
+  background-color: #005d85;
+  padding: .75em;
+}
+
+
+#states{
+  font-size: 18px
+}
+
+.wpc_intro{
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+#paragraphone{
+  font-family: 'times new roman', serif;
+  font-size: 20px;
+}
+
+#cool{
+  fontsize: 2em;
+  font-family: 'futura', sans-serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+p {
+  text-align: center;
+  margin-top: 50px;
+  margin-left:100px;
+  margin-right: 100px;
+}
+
+/* STYLE IMAGES */
+#abortionladies{
+  border: 10px solid #3765ae;
+  margin-bottom: 2em;
+}
+
+#pregnant{
+  margin-left: 100px
+}
+
+#mbmc{
+  margin-bottom: 30px;
+}
+
+#protestone{
+  margin-right:50px;
+}
+
+#protesttwo{
+  margin-left: 50px;
+}
+
+.container{
+  display: inline;
+}
+
+#vector{
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+
+/* STYLE NAV BAR */
+
+#navbar{
+  list-style-type: none;
+  background-color:#6e6e6e;
+  margins: 1.25em; 
+  padding: 1em;
+  overflow: hidden;
+}
+
+li{
+  display: inline;
+}
+
+li a{
+  color: #f0f0f0;
+  font-size: 1.5em;
+  font-family: 'futura', sans-serif;
+  text-decoration: none; 
+}
+
+li a:hover{
+background-color: #a3a3a3;
+}
+
+ul{
+  display: inline-block;
+}
